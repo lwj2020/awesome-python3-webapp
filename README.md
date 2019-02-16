@@ -1,0 +1,1 @@
+lwj frist python exercise
